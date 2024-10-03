@@ -1,0 +1,17 @@
+{
+  "name": "task-intern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "ioredis": "^5.4.1",
+    "moment": "^2.30.1"
+  }
+}
